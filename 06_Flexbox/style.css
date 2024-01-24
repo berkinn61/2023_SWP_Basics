@@ -1,0 +1,14 @@
+.box {
+    background-color: salmon;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+
+.class1 {
+    background-color: khaki;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
