@@ -5,7 +5,7 @@ let c = "hans";
 let arr = ["Susi", "paul", "hans"];
 console.log(arr[0]);
 
-arr.push(10);
+arr.push(10);   
 arr.push(3);
 
 // for (let index = 0; index < arr.length; index++) {
