@@ -2,24 +2,15 @@ let a = "susi";
 let b = "paula";
 let c = "hans";
 
-let arr = ["Susi", "paul", "hans"];
-console.log(arr[0]);
+const data="Meinde Feunde sind Susi, Paula und Hans"
 
+let arr = ["Susi", "paula", "hans"];
+console.log(arr[0])l
 arr.push(10);   
 arr.push(3);
+ for (let index = 0; index < arr.length; index++) {
+    const element = arr[index];
+     }            
 
-// for (let index = 0; index < arr.length; index++) {
-//     const element = arr[index];
-    
-// }
+const data2="Meine Freunde sind Susi, Paula, Hans und Sepp"
 
-
-
-// Erstelle ein Array mit folgenden Strings:
-// "Susi", "Paula", "Hans"
-
-// Gib folgenden Satz aus:
-// "Meine Freunde sind Susi, Paula und Hans
-
-// Füge "Sepp" dazu. Nun soll die ausgabe folgendermaßen lauten:
-// "Meine Freunde sind Susi, Paula, Hans und Sepp

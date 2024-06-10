@@ -29,7 +29,6 @@ console.log(output);
 
 
 
-
 const numbers = "8,2,1,4,6,1,8,7";
  
 let nums = numbers.split(",");
